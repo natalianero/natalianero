@@ -73,8 +73,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/natalianero/natalianero/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/natalianero/natalianero/blob/output/github-contribution-grid-snake.gif)
 
 ###
